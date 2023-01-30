@@ -1,0 +1,5 @@
+io/vertx/starter/WikiDatabaseVerticle.class
+io/vertx/starter/WikiDatabaseVerticle$SqlQuery.class
+io/vertx/starter/WikiDatabaseVerticle$ErrorCodes.class
+io/vertx/starter/MainVerticle.class
+io/vertx/starter/HttpServerVerticle.class
